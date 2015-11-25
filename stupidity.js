@@ -1,4 +1,4 @@
-a = document.getElementsByTagName('p');
+a = document.querySelectorAll('div._1dwg');
 
 for(var i=0; i<a.length;i++)
 {
